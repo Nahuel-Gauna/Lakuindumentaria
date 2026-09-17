@@ -1,0 +1,25 @@
+.social-links {
+  font-family: 'Leelawadee';
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap:2rem;
+    padding: 2rem;
+    background-color: #ffffff;
+    color: #1e1e1e;
+    margin:0;
+    bottom:0px;
+    z-index: 9000;
+  }
+  
+  .social-links a {
+    color: #1e1e1e;
+    text-decoration: none;
+  }
+
+  .social-links p {
+    margin: 0;
+  }
+  

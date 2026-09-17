@@ -1,0 +1,23 @@
+
+body{
+  background-color: #1e1e1e;
+  font-family: 'Leelawadee';
+    margin: 0;
+    padding: 0;
+}
+
+
+#root {
+  margin: 0;
+  background-color: #1e1e1e;
+  width: 100vw;
+}
+
+h1, h2{
+  letter-spacing: 0.5rem;
+}
+
+a, a:visited, a:active {
+  color: #1e1e1e;
+  text-decoration: none;
+}
