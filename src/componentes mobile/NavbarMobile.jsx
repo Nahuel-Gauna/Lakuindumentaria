@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
 import '../stylesMobile/NavbarMobile.css'
-import logo from '../assets/Logo.png'
+import logo from '../assets/logo.png'
 
 const NavbarMobile = () => {
   return (
