@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../Styles/flotantes.css';
+import '../styles/flotantes.css';
 import email from '../assets/galeria/mail-blanco.png'
 import instagram from '../assets/galeria/insta-blanco.png'
 import whatsapp from '../assets/galeria/whatsapp-blanco.png'
