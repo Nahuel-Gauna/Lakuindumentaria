@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import '../Styles/SocialLinks.css'; // Ruta corregida
+import '../styles/SocialLinks.css'; // Ruta corregida
 
 const SocialLinks = () => {
   return (
